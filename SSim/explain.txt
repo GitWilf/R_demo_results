@@ -1,0 +1,22 @@
+This is about the 'Slidy Puzzle' or '15 Puzzle' games
+
+The one where there is a square grid of numbered tiles, with one empty tiles
+You can slide the tiles about to attempt to put them in order, 1,2,3,4...
+
+There is a computer program that allows people to play this, which automatically records the duration, movecount and other statistics
+
+The plots are showing some of my games, the position of the cells show the frequency density at a varying move Communication
+the colour represents the TPS, for Turns Per Second, or moves per second
+
+People attempt to get good scores in multiple ways:
+    fast times
+    efficient use of moves (low move count)
+
+they are seperate categories
+
+See the dark region on the left of the plot? (particularly the 5x5 one)
+This is where I was trying to be efficient to get a low move count,
+    but this requires more thinking so the TPS is lower (hence the darkness in the region)
+
+
+The plots are made in R
