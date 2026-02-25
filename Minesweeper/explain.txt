@@ -1,0 +1,14 @@
+
+These plots are about minesweeper board generation
+
+One shows the distribution of the '3BV' of a boards of a certain size
+This is a value that depends on the ways the board is generated, lower 3BV makes a board faster to complete, so players care about this
+
+The number of 'Openings' is also shown by colour, players also care about these since it affects gameplay
+This was generated simply by simulating a large number of boards and recording the results
+
+
+
+The other plots show the probability of the first click being each of the possible numbers or any given board size
+This is calculated in Python and plotted in R
+
