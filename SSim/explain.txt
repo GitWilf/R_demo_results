@@ -5,7 +5,7 @@ You can slide the tiles about to attempt to put them in order, 1,2,3,4...
 
 There is a computer program that allows people to play this, which automatically records the duration, movecount and other statistics
 
-The plots are showing some of my games, the position of the cells show the frequency density at a varying move Communication
+The plots are showing some of my games, the position of the cells shows the frequency density at a varying move counts
 the colour represents the TPS, for Turns Per Second, or moves per second
 
 People attempt to get good scores in multiple ways:
@@ -21,3 +21,4 @@ This is where I was trying to be efficient to get a low move count,
 
 
 The plots are made in R
+
